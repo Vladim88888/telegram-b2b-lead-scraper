@@ -10,11 +10,11 @@ A lightweight and fast Python web scraper for extracting business contacts (B2B 
 * Exports clean data to a CSV file.
 
 ## 💻 Installation
+
 ```bash
 git clone [https://github.com/Vladim88888/telegram-b2b-lead-scraper.git](https://github.com/Vladim88888/telegram-b2b-lead-scraper.git)
 pip install telethon
 python demo_scraper.py
-
 🏢 About the Author & Commercial Solutions
 This open-source tool is maintained by VGRB Expert Solutions.
 
